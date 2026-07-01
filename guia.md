@@ -1,1 +1,7 @@
-"# Manual de Sobrevivˆncia do 1§ Ano T‚cnico" 
+# Manual de SobrevivÃªncia do 1Âº Ano TÃ©cnico
+
+## CapÃ­tulo 1: Dicas para nÃ£o esquecer os prazos das tarefas
+
+- Use um aplicativo de agenda (Google Calendar, Notion) para registrar prazos.
+- Anote tudo no caderno assim que o professor falar a data de entrega.
+- Coloque alarmes no celular 2 dias antes de cada prova ou trabalho.
