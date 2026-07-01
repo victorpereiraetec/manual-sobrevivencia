@@ -10,3 +10,8 @@
 - Pendrive ou HD externo para salvar projetos do laboratório.
 - Fone de ouvido para assistir tutoriais sem atrapalhar os colegas.
 - Caderno de anotações para rascunhar lógica antes de programar.
+## Capítulo 3: Onde encontrar os melhores salgados perto da escola
+
+- Cantina da Dona Maria: coxinha por R$5,00 e pastel por R$4,50.
+- Padaria do Zé (50m da escola): pão de queijo quentinho a R$3,00.
+- Trailer do Carlos: misto quente grande por R$7,00 no intervalo.
