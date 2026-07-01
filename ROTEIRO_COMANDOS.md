@@ -6,6 +6,8 @@
 >
 > **Pré-requisitos:** Git instalado, conta no GitHub, terminal aberto.
 
+> **Observação:** Neste repositório, o fluxo foi executado individualmente para simular o trabalho de uma equipe usando Gitflow.
+
 ---
 
 ## 📁 PASSO 1 — Configuração Inicial

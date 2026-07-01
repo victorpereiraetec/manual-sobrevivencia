@@ -15,7 +15,7 @@
 ## Capítulo 3: Onde encontrar os melhores salgados perto da escola
 
 - Cantina da Dona Ana: coxinha por R$6,50 e pastel por R$5,00.
-- Padaria do Zé (50m da escola): pão de queijo quentinho a R$3,00.
+- Padaria do Zé (50 m da escola): pão de queijo quentinho a R$3,00.
 - Trailer do Carlos: misto quente grande por R$7,00 no intervalo.
 
 ## Capítulo 4: Regras de ouro para trabalhar em equipe sem treta

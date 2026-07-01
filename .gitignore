@@ -10,3 +10,7 @@ Thumbs.db
 # Temporarios
 *.log
 *.tmp
+*.bak
+
+# Ambiente local
+.env
