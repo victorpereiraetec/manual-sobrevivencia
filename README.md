@@ -1,10 +1,8 @@
 # Manual de Sobrevivência do 1º Ano Técnico
 
-Repositório da atividade prática de Gitflow da ETEC Boituva.
+Atividade prática de Gitflow - ETEC Boituva.
 
-Este projeto simula, em um repositório individual, o fluxo de trabalho usado por uma equipe: branch `main`, branch `develop`, branches `feature/*`, merges com `--no-ff`, publicação e hotfix.
-
-## Objetivo
+## Objetivo da atividade
 
 Demonstrar na prática:
 
@@ -16,7 +14,7 @@ Demonstrar na prática:
 - criação de tags de versão;
 - correção emergencial com `hotfix`.
 
-## Estrutura de branches
+## Estrutura usada
 
 ```text
 main
@@ -33,7 +31,7 @@ hotfix/ajuste-cantina
   └── correção do nome e dos preços da cantina
 ```
 
-## Branches criadas
+## Branches
 
 | Branch | Finalidade |
 | --- | --- |
@@ -45,7 +43,7 @@ hotfix/ajuste-cantina
 | `feature/regras-trabalho-equipe` | capítulo 4 |
 | `hotfix/ajuste-cantina` | correção da cantina |
 
-## Conteúdo
+## Manual
 
 O arquivo [guia.md](guia.md) contém quatro capítulos:
 
@@ -61,7 +59,7 @@ O arquivo [guia.md](guia.md) contém quatro capítulos:
 | `v1.0` | primeira publicação do manual completo |
 | `v1.0.1` | hotfix com ajuste da cantina |
 
-## Como reproduzir
+## Roteiro
 
 O passo a passo completo está em [ROTEIRO_COMANDOS.md](ROTEIRO_COMANDOS.md).
 
