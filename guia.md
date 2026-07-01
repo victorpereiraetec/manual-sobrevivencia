@@ -15,3 +15,8 @@
 - Cantina da Dona Maria: coxinha por R$5,00 e pastel por R$4,50.
 - Padaria do Zé (50m da escola): pão de queijo quentinho a R$3,00.
 - Trailer do Carlos: misto quente grande por R$7,00 no intervalo.
+## Capítulo 4: Regras de ouro para trabalhar em equipe sem treta
+
+- Divida as tarefas de forma justa logo no primeiro dia do trabalho.
+- Use um grupo no WhatsApp só para avisos do projeto (sem memes!).
+- Se alguém não fizer a parte, converse antes de reclamar pro professor.
